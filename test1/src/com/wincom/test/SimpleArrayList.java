@@ -7,7 +7,7 @@ public class SimpleArrayList {
     public void add(Object value) {
         elementData[size++] = value;
     }
-
+//eeeeeeeeee
     public Object get(int idx) {
         return elementData[idx];
     }
