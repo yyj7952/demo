@@ -9,7 +9,7 @@ public class SimpleArrayListTest {
         int intValue1 = intList.get(0); // 형변환이 필요없다
         int intValue2 = intList.get(1); // 형변환이 필요없다
 
-        //String strValue = intList.get(0); // 컴파일에러 dssdfs
+        //String strValue = intList.get(0); // 컴파일에러 dssdfsads
 
         /*SimpleArrayList list = new SimpleArrayList();
 
