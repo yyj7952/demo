@@ -3,7 +3,7 @@ package com.wincom.test;
 public class GenericArrayList<T extends Integer> {
     private Object[] elementData = new Object[5];
     private int size;
-//ss
+//ssss
     public void add(T value) {
         elementData[size++] = value;
     }
